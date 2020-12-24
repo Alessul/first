@@ -5,8 +5,5 @@ print('aaa')
 
 print('f')
 
-print('aa')
-
-
-
+pr
 
